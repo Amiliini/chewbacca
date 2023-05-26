@@ -1,0 +1,29 @@
+Title: Exploring the Power of AI Coding Tools: My Day with Copilot and ChatGPT OpenAI
+
+Subtitle: A self-taught developer's journey to harness the efficiency of AI in coding
+
+Introduction
+
+In the ever-evolving world of programming, developers are always on the lookout for tools and techniques to streamline their coding process. As a self-taught developer with two years of experience, I'm constantly seeking new ways to enhance my productivity. Recently, I embarked on a coding adventure, armed with two innovative tools: Copilot and ChatGPT OpenAI. In this blog post, I'll take you through my day of exploring the power of AI coding tools and share the insights I gained along the way.
+
+Curiosity Sparks the Journey
+
+My curiosity drove me to delve deeper into Copilot, eager to unlock its full potential. With my company's support, which generously provided a Copilot license, I set out to explore whether this tool could help a newbie coder like me write code more efficiently. I was excited yet a little apprehensive, wondering if I possessed the skills to discern whether Copilot was generating reliable and effective code.
+
+Embracing the Tools
+
+My initial interaction with Copilot left a positive impression. Its integration with Visual Studio Code (VSC) was seamless, and getting started was a breeze. I eagerly dove into the world of AI-powered coding, ready to put Copilot to the test. Alongside Copilot, I had the privilege of interacting with ChatGPT OpenAI, an AI-powered chatbot designed to assist developers like me.
+
+The Journey Begins
+
+As a career-changer with two years of development experience, I felt a mix of excitement and nervousness as I embarked on this coding journey. Copilot had become familiar to me through a previous project, but I wondered if it possessed enough power to generate reliable code without requiring extensive refactoring or external research.
+
+With a specific goal in mind, I set out to create a web application using React. I wanted to build an app that would display random facts from a pre-made array. While this may seem like a straightforward task, it turned out to be an eye-opening experience for me.
+
+To kickstart the project, I reached out to ChatGPT OpenAI and requested assistance in generating a unique array of 50 weird and fascinating facts about humans. The response was prompt, and it was a lightbulb moment for me. Previously, crafting "fake" data for a project had always been a daunting task. But with ChatGPT's help, my worries dissolved, and I had the perfect dataset for my web app.
+
+Energized by this early success, I used the NPX command to create the React app, removing boilerplate code to ensure a clean start. With the blank canvas in front of me, I began by writing a comment that described the functionality I aimed to achieve with the component. Copilot's guidance proved invaluable as I refactored the code, leveraging its suggestions to streamline the process. Through this collaborative effort, I successfully transformed the initial code into a fully functional component that displayed random facts from the pre-made array.
+
+To add an aesthetically pleasing touch to the app, I turned to ChatGPT OpenAI once again, this time requesting assistance in crafting a visually appealing CSS file for the component. After a few iterations and some trial and error, the component started to look more polished and visually engaging.
+
+Throughout the process, I never found myself stuck in any particular spot. Occasionally, I had to analyze the generated code and make minor adjustments, but the assistance provided by both Copilot and ChatG...
