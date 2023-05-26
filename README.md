@@ -8,6 +8,12 @@ Created the styling by asking ChatGPT to create a css file and fine tuned it by 
 Also wrote a blogpost and LinkedIn post with AI. (will use them as examples on my real blogpost)
 
 
+![Screenshot from 2023-05-26 13-33-48](https://github.com/Amiliini/chewbacca/assets/62051165/e97eb625-cab9-4ab9-a9d9-7b49f6c0fa98)
+![Screenshot from 2023-05-26 13-34-04](https://github.com/Amiliini/chewbacca/assets/62051165/a41ef071-e69d-49ae-a3a9-27b6b6e60dfc)
+![Screenshot from 2023-05-26 14-54-53](https://github.com/Amiliini/chewbacca/assets/62051165/7250dd2d-831b-470c-818a-08a90332fdc4)
+![Screenshot from 2023-05-26 13-49-22](https://github.com/Amiliini/chewbacca/assets/62051165/5972f314-defd-495f-afea-71f0c4744e46)
+
+
 
 
 
